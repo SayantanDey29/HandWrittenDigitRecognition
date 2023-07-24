@@ -2,7 +2,7 @@ import streamlit as st
 import tensorflow as tf
 from tensorflow import keras
 
-st.set_page_config(page_title="DigitClassification", page_icon=":shark:", layout="centered", initial_sidebar_state="auto", menu_items=None)
+st.set_page_config(page_title="DigitRecognition", page_icon=":shark:", layout="centered", initial_sidebar_state="auto", menu_items=None)
 st.set_option('deprecation.showfileUploaderEncoding', False)
 hide_st_style="""
     <style>
