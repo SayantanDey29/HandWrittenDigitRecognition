@@ -1,10 +1,10 @@
 # Handwritten Digit Recognition Project
 
-![Project App Screenshot](pic1.png)
-
 ## Overview
 
 In this project, I have developed a deep learning model based on convolutional neural networks (CNN) to excel at predicting numeric values within the range of 0 to 9 from handwritten digit images. We have also crafted a user-friendly web application using Streamlit, enabling users to upload images in JPG or PNG formats and receive accurate predictions from our model. To ensure easy access for users, we have deployed the web app on Streamlit Cloud.
+
+![Project App Screenshot](pic1.png)
 
 ## Objective
 
