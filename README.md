@@ -17,13 +17,13 @@ The primary objective of this project is to create a robust and user-friendly so
 - I trained a CNN model using a dataset of handwritten digits.
 - The model consists of multiple convolutional layers, followed by max-pooling and fully connected layers.
 
-### Streamlit Web Application
+### $\mathcal{\color{lightgreen}{Streamlit \ Web \ Application}}$
 
 - I designed a web application using Streamlit, a Python library for creating interactive web interfaces.
 - The app allows users to upload images containing handwritten digits in JPG or PNG formats.
 - Users can submit their images to the model for predictions.
 
-### Deployment on Streamlit Cloud
+### $\mathcal{\color{lightgreen}{Deployment \ on \ Streamlit \ Cloud}}$
 
 - To ensure convenient access for users, we deployed the web app on Streamlit Cloud, a platform that simplifies the deployment of Streamlit apps.
 - This cloud deployment allows users to access the application from any web browser without the need for local setup.
@@ -33,7 +33,7 @@ The primary objective of this project is to create a robust and user-friendly so
 
 ![Project App Screenshot](pic3.png)
 
-## $\mathbb{\color{lime}{How \ it \ Works}}$
+## $\mathbb{\color{lime}{How \ it \ Works}}$ 
 
 1. Users access the web app hosted on Streamlit Cloud.
 2. They are presented with an intuitive interface that includes the option to upload an image containing a handwritten digit.
@@ -44,15 +44,15 @@ The primary objective of this project is to create a robust and user-friendly so
 
 ## $\mathbb{\color{lime}{Benefits}}$
 
-### User-Friendly Interface
+### $\mathcal{\color{lightgreen}{User \ Friendly \ Interface}}$
 
 - The Streamlit-based web app offers an easy-to-use interface for users of all backgrounds.
 
-### Accessibility
+### $\mathcal{\color{lightgreen}{Accessibility}}$
 
 - This application can assist visually impaired individuals in reading handwritten digits.
 
-### Convenient Cloud Deployment
+### $\mathcal{\color{lightgreen}{Convenient \ Cloud \ Deployment}}$
 
 - Hosting the app on Streamlit Cloud ensures that users can access it from anywhere with an internet connection.
 
