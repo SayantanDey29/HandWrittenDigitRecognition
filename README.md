@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition Project
+
 # $${\color{orange}Handwritten \space \color{orange}Digit \space \color{orange}Recognition \space \color{orange}Project}$$
 ## Overview
 
