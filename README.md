@@ -12,7 +12,7 @@ The primary objective of this project is to create a robust and user-friendly so
 
 ## $\mathbb{\color{lime}{Key \ Components}}$
 
-### $\mathscr{\color{lightblue}{Convolutional \ Neural \ Network \ Model}}$
+### $\mathcal{\color{lightblue}{Convolutional \ Neural \ Network \ Model}}$
 
 - I trained a CNN model using a dataset of handwritten digits.
 - The model consists of multiple convolutional layers, followed by max-pooling and fully connected layers.
