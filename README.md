@@ -6,11 +6,11 @@ In this project, I have developed a deep learning model based on convolutional n
 
 ![Project App Screenshot](pic1.png)
 
-## Objective
+## $\mathbb{\color{lime}{Objective}}$
 
 The primary objective of this project is to create a robust and user-friendly solution for handwritten digit recognition. Handwritten digit recognition has numerous real-world applications, including digitizing handwritten documents and improving accessibility for visually impaired individuals.
 
-## Key Components
+## $\mathbb{\color{lime}{Key \ Components}}$
 
 ### Convolutional Neural Network Model
 
@@ -33,7 +33,7 @@ The primary objective of this project is to create a robust and user-friendly so
 
 ![Project App Screenshot](pic3.png)
 
-## How it Works
+## $\mathbb{\color{lime}{How \ it \ Works}}$
 
 1. Users access the web app hosted on Streamlit Cloud.
 2. They are presented with an intuitive interface that includes the option to upload an image containing a handwritten digit.
@@ -42,7 +42,7 @@ The primary objective of this project is to create a robust and user-friendly so
 5. The model predicts the handwritten digit, and the result is displayed to the user along with a confidence score.
 6. Users can easily reset the app for additional predictions or try different images.
 
-## Benefits
+## $\mathbb{\color{lime}{Benefits}}$
 
 ### User-Friendly Interface
 
@@ -56,7 +56,7 @@ The primary objective of this project is to create a robust and user-friendly so
 
 - Hosting the app on Streamlit Cloud ensures that users can access it from anywhere with an internet connection.
 
-## Conclusion
+## $\mathbb{\color{lime}{Conclusion}}$
 
 My Handwritten Digit Recognition Web App is a valuable tool for various applications that require automated digit recognition. It combines the power of deep learning with the convenience of a user-friendly web interface, making it accessible to a wide range of users. Deployed on the Streamlit Cloud, it offers seamless access and demonstrates the potential of AI and machine learning in solving real-world problems.
 
