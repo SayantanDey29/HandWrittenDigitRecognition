@@ -29,6 +29,8 @@ The primary objective of this project is to create a robust and user-friendly so
 - This cloud deployment allows users to access the application from any web browser without the need for local setup.
 
 ![Project App Screenshot](pic2.png)
+
+
 ![Project App Screenshot](pic3.png)
 
 ## How it Works
