@@ -1,4 +1,3 @@
-
 # $${\color{orange}Handwritten \space \color{orange}Digit \space \color{orange}Recognition \space \color{orange}Project}$$
 ## $\mathbb{\color{lime}{Overview}}$
 
