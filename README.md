@@ -6,24 +6,24 @@ In this project, I have developed a deep learning model based on convolutional n
 
 ![Project App Screenshot](pic1.png)
 
-## $\mathbb{\color{lime}{Objective}}$
+$\mathbb{\color{lime}{Objective}}$
 
 The primary objective of this project is to create a robust and user-friendly solution for handwritten digit recognition. Handwritten digit recognition has numerous real-world applications, including digitizing handwritten documents and improving accessibility for visually impaired individuals.
 
-## $\mathbb{\color{lime}{Key \ Components}}$
+$\mathbb{\color{lime}{Key \ Components}}$
 
-### $\mathcal{\color{lightgreen}{Convolutional \ Neural \ Network \ Model}}$
+$\mathcal{\color{lightgreen}{Convolutional \ Neural \ Network \ Model}}$
 
 - I trained a CNN model using a dataset of handwritten digits.
 - The model consists of multiple convolutional layers, followed by max-pooling and fully connected layers.
 
-### $\mathcal{\color{lightgreen}{Streamlit \ Web \ Application}}$
+$\mathcal{\color{lightgreen}{Streamlit \ Web \ Application}}$
 
 - I designed a web application using Streamlit, a Python library for creating interactive web interfaces.
 - The app allows users to upload images containing handwritten digits in JPG or PNG formats.
 - Users can submit their images to the model for predictions.
 
-### $\mathcal{\color{lightgreen}{Deployment \ on \ Streamlit \ Cloud}}$
+$\mathcal{\color{lightgreen}{Deployment \ on \ Streamlit \ Cloud}}$
 
 - To ensure convenient access for users, we deployed the web app on Streamlit Cloud, a platform that simplifies the deployment of Streamlit apps.
 - This cloud deployment allows users to access the application from any web browser without the need for local setup.
@@ -33,7 +33,7 @@ The primary objective of this project is to create a robust and user-friendly so
 
 ![Project App Screenshot](pic3.png)
 
-## $\mathbb{\color{lime}{How \ it \ Works}}$ 
+$\mathbb{\color{lime}{How \ it \ Works}}$ 
 
 1. Users access the web app hosted on Streamlit Cloud.
 2. They are presented with an intuitive interface that includes the option to upload an image containing a handwritten digit.
@@ -42,21 +42,21 @@ The primary objective of this project is to create a robust and user-friendly so
 5. The model predicts the handwritten digit, and the result is displayed to the user along with a confidence score.
 6. Users can easily reset the app for additional predictions or try different images.
 
-## $\mathbb{\color{lime}{Benefits}}$
+$\mathbb{\color{lime}{Benefits}}$
 
-### $\mathcal{\color{lightgreen}{User \ Friendly \ Interface}}$
+$\mathcal{\color{lightgreen}{User \ Friendly \ Interface}}$
 
 - The Streamlit-based web app offers an easy-to-use interface for users of all backgrounds.
 
-### $\mathcal{\color{lightgreen}{Accessibility}}$
+$\mathcal{\color{lightgreen}{Accessibility}}$
 
 - This application can assist visually impaired individuals in reading handwritten digits.
 
-### $\mathcal{\color{lightgreen}{Convenient \ Cloud \ Deployment}}$
+$\mathcal{\color{lightgreen}{Convenient \ Cloud \ Deployment}}$
 
 - Hosting the app on Streamlit Cloud ensures that users can access it from anywhere with an internet connection.
 
-## $\mathbb{\color{lime}{Conclusion}}$
+$\mathbb{\color{lime}{Conclusion}}$
 
 My Handwritten Digit Recognition Web App is a valuable tool for various applications that require automated digit recognition. It combines the power of deep learning with the convenience of a user-friendly web interface, making it accessible to a wide range of users. Deployed on the Streamlit Cloud, it offers seamless access and demonstrates the potential of AI and machine learning in solving real-world problems.
 
